@@ -1,0 +1,1 @@
+import{K as n,L as t,s as i}from"./index.1a2bb961.js";const{commit:s}=i;function m(){return sessionStorage.getItem("instrument_list")?(s(t,JSON.parse(sessionStorage.getItem("instrument_list"))),Promise.resolve()):n().then(r=>{s(t,r.instruments)})}function u(){return n().then(e=>{s(t,e.instruments)})}export{m as g,u};

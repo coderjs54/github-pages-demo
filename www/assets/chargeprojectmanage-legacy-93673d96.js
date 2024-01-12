@@ -1,0 +1,1 @@
+System.register(["./index-legacy.acc39ef9.js","../vendors/element-plus-legacy-e48d1ae3.js"],(function(e){"use strict";var t,c,n;return{setters:[function(e){t=e._},function(e){c=e.d,n=e.B}],execute:function(){const s=c({setup(e){}});e("default",t(s,[["render",n()(((e,t,c,n,s,r)=>" chargeprojectmanage "))],["__scopeId","data-v-0c072012"]]))}}}));

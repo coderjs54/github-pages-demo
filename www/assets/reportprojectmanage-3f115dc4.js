@@ -1,0 +1,1 @@
+import{_ as t}from"./index.1a2bb961.js";import{d as r,B as o}from"../vendors/element-plus-6f9977bb.js";const p=r({setup(e){}}),_=o(),a=_((e,s,n,c,d,f)=>" reportprojectmanage ");var u=t(p,[["render",a],["__scopeId","data-v-68691ff7"]]);export{u as default};

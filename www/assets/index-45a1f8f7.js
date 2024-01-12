@@ -1,0 +1,1 @@
+import{I as e,J as s,s as a}from"./index.1a2bb961.js";const{commit:t}=a;function i(){return sessionStorage.getItem("brand_list")?(t(s,JSON.parse(sessionStorage.getItem("brand_list"))),Promise.resolve()):e().then(n=>{t(s,n.brands)})}function d(){return e().then(r=>{t(s,r.brands)})}export{i as g,d as u};

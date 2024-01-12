@@ -1,0 +1,1 @@
+import{_ as t}from"./index.1a2bb961.js";import{d as a,B as r}from"../vendors/element-plus-6f9977bb.js";const o=a({setup(e){}}),_=r(),c=_((e,p,s,n,d,m)=>" chargeprojectmanage ");var g=t(o,[["render",c],["__scopeId","data-v-0c072012"]]);export{g as default};

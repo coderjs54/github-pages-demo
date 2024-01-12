@@ -1,0 +1,1 @@
+System.register(["./index-legacy.acc39ef9.js","../vendors/element-plus-legacy-e48d1ae3.js"],(function(e){"use strict";var t,n,s;return{setters:[function(e){t=e._},function(e){n=e.d,s=e.B}],execute:function(){const c=n({setup(e){}});e("default",t(c,[["render",s()(((e,t,n,s,c,a)=>" againloginsetting "))],["__scopeId","data-v-5e6045d7"]]))}}}));

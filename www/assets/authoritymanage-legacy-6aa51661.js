@@ -1,0 +1,1 @@
+System.register(["./index-legacy.acc39ef9.js","../vendors/element-plus-legacy-e48d1ae3.js"],(function(e){"use strict";var t,n,s;return{setters:[function(e){t=e._},function(e){n=e.d,s=e.B}],execute:function(){const a=n({setup(e){}});e("default",t(a,[["render",s()(((e,t,n,s,a,c)=>" authoritymanage "))],["__scopeId","data-v-12f66ba6"]]))}}}));

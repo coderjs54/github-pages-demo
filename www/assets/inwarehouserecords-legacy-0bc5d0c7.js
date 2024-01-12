@@ -1,0 +1,1 @@
+System.register(["./index-legacy.acc39ef9.js"],(function(e){"use strict";var r,t;return{setters:[function(e){r=e.r,t=e.U}],execute:function(){e("r",(function(e){return r.post(t.INWAREHOUSE.queryInWarehouseRecords,e)}))}}}));

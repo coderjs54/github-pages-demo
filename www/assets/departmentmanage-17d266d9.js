@@ -1,0 +1,1 @@
+import{r as t,U as r}from"./index.1a2bb961.js";function a(){return t.get(r.DEPARTMENT.queryDepartment)}function p(e){return t.post(r.DEPARTMENT.addDepartment,e)}function D(e){return t.post(r.DEPARTMENT.modifyDepartment,e)}function o(e){return t.post(r.DEPARTMENT.deleteDepartment,e)}export{p as a,D as b,o as c,a as r};

@@ -1,0 +1,1 @@
+import{_ as r}from"./index.1a2bb961.js";import{d as t,B as o}from"../vendors/element-plus-6f9977bb.js";const s=t({setup(e){}}),_=o(),p=_((e,a,d,i,n,c)=>" This is for test orderverify ");var u=r(s,[["render",p],["__scopeId","data-v-68af9020"]]);export{u as default};

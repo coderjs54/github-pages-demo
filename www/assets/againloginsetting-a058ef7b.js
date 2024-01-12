@@ -1,0 +1,1 @@
+import{_ as t}from"./index.1a2bb961.js";import{d as n,B as o}from"../vendors/element-plus-6f9977bb.js";const s=n({setup(e){}}),_=o(),a=_((e,i,r,p,d,c)=>" againloginsetting ");var u=t(s,[["render",a],["__scopeId","data-v-5e6045d7"]]);export{u as default};

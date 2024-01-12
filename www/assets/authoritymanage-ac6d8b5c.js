@@ -1,0 +1,1 @@
+import{_ as e}from"./index.1a2bb961.js";import{d as a,B as o}from"../vendors/element-plus-6f9977bb.js";const _=a({setup(t){}}),r=o(),s=r((t,n,p,c,d,i)=>" authoritymanage ");var f=e(_,[["render",s],["__scopeId","data-v-12f66ba6"]]);export{f as default};

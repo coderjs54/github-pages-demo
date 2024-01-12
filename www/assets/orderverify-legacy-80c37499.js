@@ -1,0 +1,1 @@
+System.register(["./index-legacy.acc39ef9.js","../vendors/element-plus-legacy-e48d1ae3.js"],(function(e){"use strict";var t,s,n;return{setters:[function(e){t=e._},function(e){s=e.d,n=e.B}],execute:function(){const r=s({setup(e){}});e("default",t(r,[["render",n()(((e,t,s,n,r,c)=>" This is for test orderverify "))],["__scopeId","data-v-68af9020"]]))}}}));

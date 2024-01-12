@@ -1,0 +1,1 @@
+import{_ as t}from"./index.1a2bb961.js";import{d as a,B as o}from"../vendors/element-plus-6f9977bb.js";const _=a({setup(e){}}),r=o(),s=r((e,p,d,n,c,i)=>" materiallog ");var f=t(_,[["render",s],["__scopeId","data-v-e11dad30"]]);export{f as default};

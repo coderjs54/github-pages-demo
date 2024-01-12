@@ -1,0 +1,1 @@
+import{_ as r}from"./index.1a2bb961.js";import{d as a,B as o}from"../vendors/element-plus-6f9977bb.js";const t=a({setup(e){}}),_=o(),p=_((e,s,n,c,d,u)=>" proceduremanage ");var f=r(t,[["render",p],["__scopeId","data-v-649405a6"]]);export{f as default};

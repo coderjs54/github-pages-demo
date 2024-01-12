@@ -1,0 +1,1 @@
+System.register(["./index-legacy.acc39ef9.js","../vendors/element-plus-legacy-e48d1ae3.js"],(function(e){"use strict";var t,n,c;return{setters:[function(e){t=e._},function(e){n=e.d,c=e.B}],execute:function(){const s=n({setup(e){}});e("default",t(s,[["render",c()(((e,t,n,c,s,r)=>" proceduremanage "))],["__scopeId","data-v-649405a6"]]))}}}));
